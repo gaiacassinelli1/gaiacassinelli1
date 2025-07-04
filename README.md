@@ -13,7 +13,7 @@ I'm a tech enthusiast from Milan with a strong curiosity for how data shapes the
 
 When I'm not coding or exploring new technologies, you might find me:
 - 📊 Experimenting with data visualizations
-- ☁️ Learning about cloud platforms like AWS, Azure, or GCP
+- ☁️ Learning about cloud platforms like AWS, Azure, or GCP 
 - 🧠 Reading about AI, machine learning, and system design
 - 🎧 Listening to tech podcasts or electronic music
 
@@ -24,10 +24,10 @@ When I'm not coding or exploring new technologies, you might find me:
 Here are some of the tools and technologies I'm working with or learning:
 
 - **Languages**: Python, SQL, Java (basics)
-- **Big Data**: Hadoop, Spark, Kafka
-- **Cloud**: AWS (EC2, S3, Lambda), Azure (in progress)
-- **Databases**: PostgreSQL, MongoDB
-- **Tools**: Git, Docker, Linux, Jupyter, VS Code
+- **Big Data**: Spark
+- **Cloud**: AWS (EC2, S3, Lambda), Azure (in progress) 
+- **Databases**: PostgreSQL, MongoDB, Neo4J
+- **Tools**: Git, Docker, Jupyter
 
 ---
 
@@ -42,8 +42,8 @@ Here are some of the tools and technologies I'm working with or learning:
 
 ## 🌱 Currently Learning
 
-- Advanced data engineering pipelines  
-- Cloud-native architecture patterns  
+- Advanced data engineering pipelines
+- Cloud-native architecture patterns
 
 ---
 
