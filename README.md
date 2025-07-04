@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm [Your Name]
+# 👋 Hello, World! I'm Gaia
 
 #### 🎯 Aspiring Big Data Engineer & Solutions Architect
 #### 📍 Based in Milan, Italy 🇮🇹  
