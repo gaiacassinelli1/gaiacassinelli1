@@ -25,7 +25,7 @@ Here are some of the tools and technologies I'm working with or learning:
 
 - **Languages**: Python, SQL, Java (basics)
 - **Big Data**: Spark
-- **Cloud**: AWS (EC2, S3, Lambda), Azure (in progress) 
+- **Cloud**: AWS and Azure (in progress) 
 - **Databases**: PostgreSQL, MongoDB, Neo4J
 - **Tools**: Git, Docker, Jupyter
 
