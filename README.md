@@ -1,3 +1,58 @@
+<!-- # 👋 Hi there, I'm **Gaia**
+
+🎓 I'm a passionate **Big Data Engineer & Solutions Architect** student with a strong curiosity for technology and innovation. My journey is driven by a desire to continuously learn and grow in the ever-evolving world of data and software engineering.
+
+---
+
+## 🛠️ Skills & Technologies
+- 💻 [Python](https://www.python.org/), [Java](https://www.oracle.com/java/), [MySQL](https://www.mysql.com/)
+- 📊 [Power BI](https://powerbi.microsoft.com/), [Data Visualization](https://en.wikipedia.org/wiki/Data_visualization)
+- ☁️ [Cloud Computing](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/), [Big Data Architectures](https://en.wikipedia.org/wiki/Big_data)
+- 🔧 Problem Solving & Analytical Thinking
+
+---
+
+## 🚀 Interests & Aspirations
+I'm particularly interested in:
+- [Distributed Systems](https://en.wikipedia.org/wiki/Distributed_computing)
+- [Cloud-Native Technologies](https://en.wikipedia.org/wiki/Cloud-native_computing)
+- Data-Driven Solutions
+
+---
+
+## 🎯 Hobbies & Interests
+- 📚 *Avid reader* with a passion for continuous learning  
+- 🧠 *Seminar enthusiast* on topics like:
+  - 💰 [Finance](https://en.wikipedia.org/wiki/Finance)
+  - 🌱 [Personal Development](https://en.wikipedia.org/wiki/Personal_development)
+  - 🧬 [Medicine](https://en.wikipedia.org/wiki/Medicine)
+  - 🧠 [Psychology](https://en.wikipedia.org/wiki/Psychology)
+  - 🧑‍🤝‍🧑 [Sociology](https://en.wikipedia.org/wiki/Sociology)
+- 💬 Always curious and eager to explore new perspectives
+
+---
+
+## 📫 Let's Connect!
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/gaiacassinelli)
+- 📧 [Email Me](mailto:cassinelligaia@gmail.com)
+
+---
+
+## 📊 GitHub Stats & Badges
+
+![Visitors](https://komarev.com/ghpvc/?username=gaiacassinelli&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/gaiacassinelli?label=Follow&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/gaiacassinelli?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
+![Gaia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaiacassinelli&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaiacassinelli&layout=compact&theme=radical)
+
+---
+
+*This README was inspired by my professional journey and aspirations. Let's build something amazing together!*
+-->
+
+
 # 🔥 Hello, World! I'm Gaia
 
 #### 🎯 Aspiring Big Data Engineer & Solutions Architect
@@ -54,7 +109,6 @@ Feel free to reach out or follow me on:
 
 - LinkedIn | [Gaia Cassinelli](https://www.linkedin.com/in/gaiacassinelli/)
 - Email | [cassinelligaia@gmail.com](cassinelligaia@gmail.com)
-
 
 
 
